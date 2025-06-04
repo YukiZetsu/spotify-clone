@@ -1,6 +1,6 @@
 <h1 align="center">Realtime Spotify Application ✨</h1>
 
-About This Course:
+About This :
 
 -   🎸 Listen to music, play next and previous songs
 -   🔈 Update the volume with a slider
